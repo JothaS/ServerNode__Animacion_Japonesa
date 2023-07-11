@@ -1,0 +1,302 @@
+{
+  "1": {
+    "nombre": "Dragon Ball",
+    "genero": "Shonen",
+    "año": "1986",
+    "autor": "Akira Toriyama"
+  },
+  "2": {
+    "nombre": "Sailor Moon",
+    "genero": "Shojo",
+    "año": "1992",
+    "autor": "Naoko Takeuchi"
+  },
+  "3": {
+    "nombre": "Naruto",
+    "genero": "Shonen",
+    "año": "2002",
+    "autor": "Masashi Kishimoto"
+  },
+  "4": {
+    "nombre": "Neon Genesis Evangelion",
+    "genero": "Mecha",
+    "año": "1995",
+    "autor": "Yoshiyuki Sadamoto"
+  },
+  "5": {
+    "nombre": "One Piece",
+    "genero": "Shonen",
+    "año": "1999",
+    "autor": "Eiichiro Oda"
+  },
+  "6": {
+    "nombre": "Bleach",
+    "genero": "Shonen",
+    "año": "2004",
+    "autor": "Tite Kubo"
+  },
+  "7": {
+    "nombre": "Hunter x Hunter",
+    "genero": "Shonen",
+    "año": "2011",
+    "autor": "Yoshihiro Togashi"
+  },
+  "8": {
+    "nombre": "Fullmetal Alchemist",
+    "genero": "Shonen",
+    "año": "2003",
+    "autor": "Hiromu Arakawa"
+  },
+  "9": {
+    "nombre": "Attack on Titan",
+    "genero": "Shonen",
+    "año": "2013",
+    "autor": "Hajime Isayama"
+  },
+  "10": {
+    "nombre": "Akira",
+    "genero": "Seinen",
+    "año": "1988",
+    "autor": "Katsuhiro Otomo"
+  },
+  "11": {
+    "nombre": "Death Note",
+    "genero": "Misterio",
+    "año": "2006",
+    "autor": "Tsugumi Ohba"
+  },
+  "12": {
+    "nombre": "My Hero Academia",
+    "genero": "Shonen",
+    "año": "2016",
+    "autor": "Kohei Horikoshi"
+  },
+  "13": {
+    "nombre": "Code Geass",
+    "genero": "Mecha",
+    "año": "2006",
+    "autor": "Goro Taniguchi"
+  },
+  "14": {
+    "nombre": "Fairy Tail",
+    "genero": "Shonen",
+    "año": "2009",
+    "autor": "Hiro Mashima"
+  },
+  "15": {
+    "nombre": "Cowboy Bebop",
+    "genero": "Ciencia ficción",
+    "año": "1998",
+    "autor": "Shinichiro Watanabe"
+  },
+  "16": {
+    "nombre": "JoJo's Bizarre Adventure",
+    "genero": "Shonen",
+    "año": "2012",
+    "autor": "Hirohiko Araki"
+  },
+  "17": {
+    "nombre": "Gintama",
+    "genero": "Shonen",
+    "año": "2006",
+    "autor": "Hideaki Sorachi"
+  },
+  "18": {
+    "nombre": "Sword Art Online",
+    "genero": "Isekai",
+    "año": "2012",
+    "autor": "Reki Kawahara"
+  },
+  "19": {
+    "nombre": "Steins;Gate",
+    "genero": "Ciencia ficción",
+    "año": "2011",
+    "autor": "Chiyomaru Shikura"
+  },
+  "20": {
+    "nombre": "One Punch Man",
+    "genero": "Acción",
+    "año": "2015",
+    "autor": "ONE"
+  },
+  "21": {
+    "nombre": "Black Clover",
+    "genero": "Shonen",
+    "año": "2017",
+    "autor": "Yuki Tabata"
+  },
+  "22": {
+    "nombre": "My Neighbor Totoro",
+    "genero": "Fantasía",
+    "año": "1988",
+    "autor": "Hayao Miyazaki"
+  },
+  "23": {
+    "nombre": "Kimetsu no Yaiba: Mugen Train",
+    "genero": "Acción",
+    "año": "2020",
+    "autor": "Koyoharu Gotouge"
+  },
+  "24": {
+    "nombre": "Haikyu!!",
+    "genero": "Deportes",
+    "año": "2014",
+    "autor": "Haruichi Furudate"
+  },
+  "25": {
+    "nombre": "The Promised Neverland",
+    "genero": "Misterio",
+    "año": "2019",
+    "autor": "Kaiu Shirai"
+  },
+  "26": {
+    "nombre": "Attack on Titan: The Final Season",
+    "genero": "Shonen",
+    "año": "2020",
+    "autor": "Hajime Isayama"
+  },
+  "27": {
+    "nombre": "Your Name",
+    "genero": "Romance",
+    "año": "2016",
+    "autor": "Makoto Shinkai"
+  },
+  "28": {
+    "nombre": "Jujutsu Kaisen",
+    "genero": "Shonen",
+    "año": "2020",
+    "autor": "Gege Akutami"
+  },
+  "29": {
+    "nombre": "Attack on Titan: No Regrets",
+    "genero": "Shonen",
+    "año": "2014",
+    "autor": "Hajime Isayama"
+  },
+  "30": {
+    "nombre": "Dragon Ball GT",
+    "genero": "Shonen",
+    "año": "1996",
+    "autor": "Akira Toriyama"
+  },
+  "31": {
+    "nombre": "Hunter x Hunter (1999)",
+    "genero": "Shonen",
+    "año": "1999",
+    "autor": "Yoshihiro Togashi"
+  },
+  "32": {
+    "nombre": "Ghost in the Shell",
+    "genero": "Cienciaficción",
+    "año": "1995",
+    "autor": "Masamune Shirow"
+  },
+  "33": {
+    "nombre": "Attack on Titan: Junior High",
+    "genero": "Comedia",
+    "año": "2015",
+    "autor": "Saki Nakagawa"
+  },
+  "34": {
+    "nombre": "Attack on Titan: Lost Girls",
+    "genero": "Shonen",
+    "año": "2017",
+    "autor": "Hajime Isayama"
+  },
+  "35": {
+    "nombre": "Tokyo Ghoul",
+    "genero": "Horror",
+    "año": "2014",
+    "autor": "Sui Ishida"
+  },
+  "36": {
+    "nombre": "Black Butler",
+    "genero": "Misterio",
+    "año": "2008",
+    "autor": "Yana Toboso"
+  },
+  "37": {
+    "nombre": "Fruits Basket",
+    "genero": "Shojo",
+    "año": "2001",
+    "autor": "Natsuki Takaya"
+  },
+  "38": {
+    "nombre": "Assassination Classroom",
+    "genero": "Shonen",
+    "año": "2013",
+    "autor": "Yusei Matsui"
+  },
+  "39": {
+    "nombre": "No Game No Life",
+    "genero": "Isekai",
+    "año": "2014",
+    "autor": "Yu Kamiya"
+  },
+  "40": {
+    "nombre": "K-On!",
+    "genero": "Música",
+    "año": "2009",
+    "autor": "Kakifly"
+  },
+  "41": {
+    "nombre": "Attack on Titan: Before the Fall",
+    "genero": "Shonen",
+    "año": "2013",
+    "autor": "Hajime Isayama"
+  },
+  "42": {
+    "nombre": "Noragami",
+    "genero": "Fantasía",
+    "año": "2014",
+    "autor": "Adachitoka"
+  },
+  "43": {
+    "nombre": "Dragon Ball Super: Broly",
+    "genero": "Acción",
+    "año": "2018",
+    "autor": "Akira Toriyama"
+  },
+  "44": {
+    "nombre": "Violet Evergarden",
+    "genero": "Drama",
+    "año": "2018",
+    "autor": "Kana Akatsuki"
+  },
+  "45": {
+    "nombre": "Rurouni Kenshin",
+    "genero": "Samurai",
+    "año": "1996",
+    "autor": "Nobuhiro Watsuki"
+  },
+  "46": {
+    "nombre": "Attack on Titan: Before the Fall",
+    "genero": "Shonen",
+    "año": "2011",
+    "autor": "Ryo Suzukaze"
+  },
+  "47": {
+    "nombre": "Kimi no Na wa.",
+    "genero": "Romance",
+    "año": "2016",
+    "autor": "Makoto Shinkai"
+  },
+  "48": {
+    "nombre": "Attack on Titan: Lost Girls",
+    "genero": "Shonen",
+    "año": "2015",
+    "autor": "Hiroshi Seko"
+  },
+  "49": {
+    "nombre": "Attack on Titan: Harsh Mistress of the City",
+    "genero": "Shonen",
+    "año": "2013",
+    "autor": "Ryo Kawakami"
+  },
+  "50": {
+    "nombre": "Demon Slayer",
+    "genero": "Shonen",
+    "año": "2019",
+    "autor": "Koyoharu Gotouge"
+  }
+}
